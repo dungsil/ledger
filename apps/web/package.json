@@ -1,0 +1,20 @@
+{
+  "name": "@dungsil-ledger/web",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@9.10.0",
+  "repository": "https://github.com/dungsil/ledger.git",
+  "scripts": {
+    "postinstall": "nuxi prepare",
+    "dev": "nuxi dev",
+    "build": "nuxi build"
+  },
+  "dependencies": {
+    "nuxt": "3.13.1",
+    "vue": "3.5.4"
+  },
+  "devDependencies": {
+    "@dungsil/ledger-eslint": "workspace:*",
+    "@dungsil/ledger-typescript": "workspace:*"
+  }
+}

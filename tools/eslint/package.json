@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "@dungsil/ledger-eslint",
+  "packageManager": "pnpm@9.10.0",
+  "repository": "https://github.com/dungsil/ledger.git",
+  "main": "./lib/index.mjs",
+  "dependencies": {
+    "@antfu/eslint-config": "3.5.1",
+    "eslint": "9.10.0",
+    "eslint-plugin-format": "0.1.2"
+  }
+}

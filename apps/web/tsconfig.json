@@ -1,0 +1,6 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "references": [
+    "@dungsil/ledger-typescript/tsconfig/base.json"
+  ]
+}
