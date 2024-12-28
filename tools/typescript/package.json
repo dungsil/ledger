@@ -2,7 +2,7 @@
   "name": "@dungsil/ledger-typescript",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.15.1",
+  "packageManager": "pnpm@9.15.2",
   "repository": "https://github.com/dungsil/ledger.git",
   "main": "./dist/index.mjs",
   "types": "./dist/index.d.mts",
