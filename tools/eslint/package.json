@@ -6,7 +6,7 @@
   "repository": "https://github.com/dungsil/ledger.git",
   "main": "./lib/index.mjs",
   "dependencies": {
-    "@antfu/eslint-config": "3.13.0",
+    "@antfu/eslint-config": "3.14.0",
     "eslint": "9.18.0",
     "eslint-plugin-format": "0.1.3"
   }
