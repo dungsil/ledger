@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "@dungsil/ledger-eslint": "workspace:*",
-    "turbo": "2.3.3"
+    "turbo": "2.3.4"
   }
 }
