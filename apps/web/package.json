@@ -2,7 +2,7 @@
   "name": "@dungsil-ledger/web",
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.15.5",
+  "packageManager": "pnpm@10.4.1",
   "repository": "https://github.com/dungsil/ledger.git",
   "scripts": {
     "postinstall": "nuxi prepare",
