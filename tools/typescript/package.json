@@ -15,7 +15,7 @@
     "build": "unbuild"
   },
   "dependencies": {
-    "@types/node": "22.13.11",
+    "@types/node": "22.13.14",
     "@vue/language-server": "2.2.8",
     "typescript": "5.8.2",
     "unbuild": "2.0.0"
