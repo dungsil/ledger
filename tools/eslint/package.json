@@ -7,7 +7,7 @@
   "main": "./lib/index.mjs",
   "dependencies": {
     "@antfu/eslint-config": "3.16.0",
-    "eslint": "9.25.1",
+    "eslint": "9.26.0",
     "eslint-plugin-format": "0.1.3"
   }
 }
